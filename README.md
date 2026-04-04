@@ -5,7 +5,7 @@ Embedded_UGVC/
 │
 ├── assets/
 │   ├── PCB Files/         # KiCad Files
-│   ├── pcb/               # PCB layout files, Gerbers, and BOM
+│   ├── Datasheet/         # IC, MCU and other datasheets we need
 │
 ├──platformio.ini
 ├──src/               # Source files (.cpp)
