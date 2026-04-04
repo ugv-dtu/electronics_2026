@@ -7496,12 +7496,6 @@
 		(uuid "01e50fe5-0b4a-47a4-99b6-f3a013172359")
 	)
 	(junction
-		(at 43.18 27.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "03096356-9fa6-4e35-b120-e44204e4e124")
-	)
-	(junction
 		(at 91.44 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7692,6 +7686,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5839ab1-4a2b-4dad-937d-45640b81e634")
+	)
+	(junction
+		(at 43.18 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b9362fef-6be8-4a82-b567-291e2c137d72")
 	)
 	(junction
 		(at 229.87 104.14)
@@ -8182,6 +8182,16 @@
 			(type default)
 		)
 		(uuid "063369c5-cbdc-48be-856f-a5af70c21b1b")
+	)
+	(wire
+		(pts
+			(xy 43.18 27.94) (xy 50.8 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0858ed99-4345-4eed-8e25-443512aa5a05")
 	)
 	(wire
 		(pts
@@ -11080,86 +11090,6 @@
 			(project "UGV"
 				(path "/07a8edf5-8ac1-4cc3-b758-10bf557c0053"
 					(reference "#PWR030")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 46.99 27.94 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1ee22c37-c41e-47a3-bf8e-3e4d9c105da2")
-		(property "Reference" "Cp2"
-			(at 46.99 20.32 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "220uF"
-			(at 46.99 22.86 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 50.8 26.9748 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 46.99 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 46.99 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "a092acf8-7420-4a85-8663-feee87d3f767")
-		)
-		(pin "1"
-			(uuid "b90c2d6e-c224-4266-bfd5-1a487c027dd0")
-		)
-		(instances
-			(project "UGV"
-				(path "/07a8edf5-8ac1-4cc3-b758-10bf557c0053"
-					(reference "Cp2")
 					(unit 1)
 				)
 			)
