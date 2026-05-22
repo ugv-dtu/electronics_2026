@@ -11024,7 +11024,7 @@
 				)
 			)
 		)
-		(property "MPN" "B2B-XH-A"
+		(property "MPN" ""
 			(at 24.13 176.53 90)
 			(hide yes)
 			(show_name no)
@@ -12084,7 +12084,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MPN" "XT30PW-M"
+		(property "MPN" ""
 			(at 29.21 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -12216,7 +12216,7 @@
 				)
 			)
 		)
-		(property "MPN" "B2B-XH-A"
+		(property "MPN" ""
 			(at 81.28 176.53 90)
 			(hide yes)
 			(show_name no)
@@ -13091,7 +13091,7 @@
 				)
 			)
 		)
-		(property "MPN" "B2B-XH-A-BK"
+		(property "MPN" ""
 			(at 254 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -13348,7 +13348,7 @@
 				)
 			)
 		)
-		(property "MPN" "B2B-XH-A"
+		(property "MPN" ""
 			(at 154.94 177.8 90)
 			(hide yes)
 			(show_name no)
@@ -13537,7 +13537,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MPN" "XT30PW-M"
+		(property "MPN" ""
 			(at 29.21 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -13670,7 +13670,7 @@
 				)
 			)
 		)
-		(property "MPN" "B2B-XH-A-BK"
+		(property "MPN" ""
 			(at 254 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -14103,7 +14103,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MPN" "B4B-XH-A (LF)(SN)"
+		(property "MPN" ""
 			(at 275.59 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -14852,7 +14852,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1210C226K3RACTU"
+		(property "MPN" ""
 			(at 128.27 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -15122,7 +15122,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MPN" "XT30PW-M"
+		(property "MPN" ""
 			(at 29.21 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -15664,7 +15664,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MPN" "XT30PW-M"
+		(property "MPN" ""
 			(at 29.21 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -16578,7 +16578,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1210C226K3RACTU"
+		(property "MPN" ""
 			(at 120.65 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -16670,7 +16670,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1210C226K3RACTU"
+		(property "MPN" ""
 			(at 86.36 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -16845,7 +16845,7 @@
 				)
 			)
 		)
-		(property "MPN" "B2B-XH-A"
+		(property "MPN" ""
 			(at 171.5397 168.9036 90)
 			(hide yes)
 			(show_name no)
@@ -17100,7 +17100,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1210C226K3RACTU"
+		(property "MPN" ""
 			(at 54.61 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -17539,7 +17539,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MPN" "B4B-XH-A (LF)(SN)"
+		(property "MPN" ""
 			(at 275.59 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -17838,7 +17838,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MPN" "B4B-XH-A (LF)(SN)"
+		(property "MPN" ""
 			(at 220.98 17.78 0)
 			(hide yes)
 			(show_name no)
@@ -17964,7 +17964,7 @@
 				)
 			)
 		)
-		(property "MPN" "B2B-XH-A"
+		(property "MPN" ""
 			(at 67.31 176.53 90)
 			(hide yes)
 			(show_name no)
@@ -18236,7 +18236,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MPN" "XT30PW-M"
+		(property "MPN" ""
 			(at 135.89 16.51 0)
 			(hide yes)
 			(show_name no)
@@ -18763,7 +18763,7 @@
 				)
 			)
 		)
-		(property "MPN" "B2B-XH-A-R"
+		(property "MPN" ""
 			(at 34.29 130.81 90)
 			(hide yes)
 			(show_name no)
@@ -18827,7 +18827,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT90PW-M_1x02_P10.90mm_Horizontal"
+		(property "Footprint" "UGV_Custom:AMASS_XT90PW-M_1x02_P10.90mm_Horizontal"
 			(at 29.21 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -19186,7 +19186,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MPN" "B4B-XH-A (LF)(SN)"
+		(property "MPN" ""
 			(at 190.5 17.78 0)
 			(hide yes)
 			(show_name no)
@@ -20479,7 +20479,7 @@
 				)
 			)
 		)
-		(property "MPN" "B2B-XH-A"
+		(property "MPN" ""
 			(at 52.07 176.53 90)
 			(hide yes)
 			(show_name no)
@@ -20911,6 +20911,17 @@
 			)
 		)
 		(property "Description" "Simple Switcher Synchronous Buck Regulator, Vin=3.8-36V, Iout=3A, F=400kHz, Adjustable output voltage, HSOP-8"
+			(at 74.93 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "LMR33630ADDAR"
 			(at 74.93 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -21525,7 +21536,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MPN" "XT30PW-M"
+		(property "MPN" ""
 			(at 124.46 16.51 0)
 			(hide yes)
 			(show_name no)
@@ -22207,7 +22218,7 @@
 				)
 			)
 		)
-		(property "MPN" "B2B-XH-A"
+		(property "MPN" ""
 			(at 213.36 168.91 90)
 			(hide yes)
 			(show_name no)
@@ -22855,7 +22866,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MPN" "XT30PW-M"
+		(property "MPN" ""
 			(at 29.21 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -23224,7 +23235,7 @@
 				)
 			)
 		)
-		(property "MPN" "B2B-XH-A-R"
+		(property "MPN" ""
 			(at 34.29 140.97 90)
 			(hide yes)
 			(show_name no)
@@ -23650,7 +23661,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MPN" "XT30PW-M"
+		(property "MPN" ""
 			(at 29.21 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -23781,7 +23792,7 @@
 				)
 			)
 		)
-		(property "MPN" "B2B-XH-A-R"
+		(property "MPN" ""
 			(at 34.29 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -23876,7 +23887,7 @@
 				)
 			)
 		)
-		(property "MPN" "B2B-XH-A"
+		(property "MPN" ""
 			(at 38.1 176.53 90)
 			(hide yes)
 			(show_name no)
@@ -23972,7 +23983,7 @@
 				)
 			)
 		)
-		(property "MPN" "B2B-XH-A-BK"
+		(property "MPN" ""
 			(at 254 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -24531,7 +24542,7 @@
 				)
 			)
 		)
-		(property "MPN" "B2B-XH-A-R"
+		(property "MPN" ""
 			(at 34.29 110.49 90)
 			(hide yes)
 			(show_name no)
@@ -24807,7 +24818,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MPN" "XT30PW-M"
+		(property "MPN" ""
 			(at 29.21 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -24940,7 +24951,7 @@
 				)
 			)
 		)
-		(property "MPN" "B2B-XH-A"
+		(property "MPN" ""
 			(at 199.39 168.91 90)
 			(hide yes)
 			(show_name no)
@@ -25036,7 +25047,7 @@
 				)
 			)
 		)
-		(property "MPN" "B2B-XH-A-BK"
+		(property "MPN" ""
 			(at 254 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -25626,7 +25637,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MPN" "B4B-XH-A (LF)(SN)"
+		(property "MPN" ""
 			(at 175.26 17.78 0)
 			(hide yes)
 			(show_name no)
@@ -25996,7 +26007,7 @@
 				)
 			)
 		)
-		(property "MPN" "B2B-XH-A"
+		(property "MPN" ""
 			(at 185.42 168.7568 90)
 			(hide yes)
 			(show_name no)
@@ -26324,7 +26335,7 @@
 				)
 			)
 		)
-		(property "MPN" "B2B-XH-A"
+		(property "MPN" ""
 			(at 95.25 176.53 90)
 			(hide yes)
 			(show_name no)
